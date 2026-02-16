@@ -1,5 +1,5 @@
 
-# Flight Analytics
+# Real Time Flight Analytics Platform
 
 ## 📌 Project Overview
 
