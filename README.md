@@ -1,5 +1,5 @@
 
-# ✈️ Flight Analytics – End-to-End Data Engineering Project
+# Flight Analytics
 
 ## 📌 Project Overview
 
